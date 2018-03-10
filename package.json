@@ -1,0 +1,24 @@
+{
+  "name": "atom-textmaster-autocomplete",
+  "main": "./lib/main",
+  "version": "0.2.0",
+  "description": "TextMaster autocomplete plugin for Atom.",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "textmaster"
+  ],
+  "repository": "https://github.com/text-master/atom-textmaster-autocomplete",
+  "author": "Nam Hoang Nguyen <namhoang.td09@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
