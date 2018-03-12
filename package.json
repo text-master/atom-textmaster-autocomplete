@@ -20,5 +20,10 @@
         "2.0.0": "getProvider"
       }
     }
+  },
+  "dependencies": {
+    "rxjs": "^5.5.6",
+    "socket.io-client": "^2.0.4",
+    "socket.io-request": "^0.8.0"
   }
 }
