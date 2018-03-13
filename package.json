@@ -1,7 +1,7 @@
 {
   "name": "atom-textmaster-autocomplete",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "TextMaster autocomplete plugin for Atom.",
   "keywords": [
     "autocomplete",
